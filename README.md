@@ -65,6 +65,9 @@ Filosofia Jacaré: manter liquidez e aguardar pacientemente por momentos de cris
 
 
 Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+.
 Por que ele considera a renda fixa como 'perda fixa'?
+.
 Como a filosofia de Luiz Barsi ajuda a garantir o futuro?
+.
 Por que disciplina e paciência são fundamentais para o sucesso financeiro?
